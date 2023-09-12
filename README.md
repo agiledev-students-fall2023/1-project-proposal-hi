@@ -21,5 +21,5 @@ The home screen would ideally have a comforting, minimalistic aesthetic, with so
 ### The AI
 Using the information given by the user on setup, the AI can try to tailor some messages to display on the homescreen. Susequent chats will enhance the knowledge of the user and allow the AI to tailor the messages more personally to the user. 
 
-# Scope
+## Scope
 I definitely think this is an ambitious project, but a basic model could be feasible. The level of personalization correlates to the learning model, so if the learning model and the data processing is simple then this could be feasible. Additionally, there would be some database management for the training data and user profiles. With a more minimal training set, this project can also be simplified, though that would again mean less personalization. This project is definitely on the difficult side, especially for those who may not know much about AI and learning models, but I think a basic model could be feasible but challenging. 
