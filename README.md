@@ -1,9 +1,9 @@
-# Personalized Generative AI Motivation and Encouragement
+# Personalized AI Motivation and Encouragement
 
 Carol Tsao (cmt9839)
 
 ## What and Why?
-I think having a personalized generative AI to send motivational messages to users would be an interesting project. This would ideally be an app that would take some information about the user so it can personalize messages. This can be to varying levels of personalization depending on the level of information provided by the user. So the app would periodically send the user messages in the form of notifications or when the user opens the app with motivational or comforting words. For instance, if the user tells the AI that today was a bad day, it might ask for some context and then provide some comfort or encouragement. 
+I think having a personalized AI to send motivational messages to users would be an interesting project. This would ideally be an app that would take some information about the user so it can personalize messages. This can be to varying levels of personalization depending on the level of information provided by the user. So the app would periodically send the user messages in the form of notifications or when the user opens the app with motivational or comforting words. For instance, if the user tells the AI that today was a bad day, it might ask for some context and then provide some comfort or encouragement. 
 
 This would help people perhaps feel a little less saddened, especially in today's society where keeping up with mental health goes a long way. A lot of people may not be able to talk to anyone about their problems or have anyone to comfort them when they really need it due to various circumstances, so these messages may make a difference. Although people may not find AI comfort to be as endearing as a human being, but sometimes, just hearing a few comforting words could lighten someone's mood.
 
