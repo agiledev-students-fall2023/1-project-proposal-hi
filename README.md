@@ -1,4 +1,4 @@
-# Personalized Conversational AI for Motivation and Encouragement
+# Personalized AI for Motivation and Encouragement
 
 Carol Tsao (cmt9839)
 
